@@ -4,8 +4,8 @@ def  base_hash = {
       :bash => "hash",
       :hash => "bash" =>
   "hash"    
-    }
- 
+     }
+  } 
   
 end
 
