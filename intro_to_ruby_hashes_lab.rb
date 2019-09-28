@@ -1,4 +1,4 @@
-def  = {
+def  base_hash = {
   :
 
 }
