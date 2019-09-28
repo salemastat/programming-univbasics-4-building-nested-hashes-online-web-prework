@@ -1,7 +1,11 @@
 def  base_hash = {
-  :
-
-}
+  :hash => {
+    "bash" => {
+      :bash => "hash",
+      :hash => "bash" =>
+  "hash"    
+    }
+ 
   
 end
 
